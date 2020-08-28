@@ -1,4 +1,4 @@
-FROM mbentley/bind9
+FROM mbentley/bind9:latest
 LABEL maintainer="entropy.overseer@entropic.network"
 
 # Rename the original entrypoint
